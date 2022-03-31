@@ -1,0 +1,4717 @@
+[{
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16983481?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/20088698?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13800285?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/19755068?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/21227790?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/22236634?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/10774393?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1499 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/24979735?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/15353050?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23752804?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/13651934?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23668316?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1180 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/15215814?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/24753368?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14855825?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "101 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/terrain~a-vendre~montreal-saint-laurent/23288826?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25750704?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12176693?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/16112893?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/9688356?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Quartier L'Île-Bizard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-l-ile-bizard-sainte-genevieve/26467060?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1440 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19288983?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25075368?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21895509?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15115054?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier La Petite-Patrie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/19196458?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/28080398?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25787571?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Quartier Rosemont Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/14122551?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/28257859?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/19245437?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14906198?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1050 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/26613420?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27617282?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/23046502?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/17486807?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/20059136?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/16395363?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/14208950?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/17618930?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1360 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/20928631?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/20290956?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/25329129?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1355 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/15063543?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/24275668?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/21572560?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/28108031?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25398576?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/22584594?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27808786?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21416984?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/9482130?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/17530711?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18940093?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/20575608?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "990 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/16544539?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1315 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/24803208?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25164171?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "875 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/22213785?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/23641337?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/19938467?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/21951899?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/19765477?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/26184769?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1360 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28613101?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/14723112?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/28106694?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21158877?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11542598?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1305 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/18495787?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/14349926?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/26209399?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1284 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/15526899?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21171130?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/9937255?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1350 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/18049288?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/13057295?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/21776081?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27672568?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25157209?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1195 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/15737613?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "725 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22204586?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1340 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/20831527?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/17115798?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21319198?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/24348208?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1330 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/10468988?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1045 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12375744?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "695 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11411373?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "895 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24024007?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/26240958?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "750 $",
+        "City": "Quartier Rosemont Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/20095032?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/22205862?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1125 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/15279902?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23615001?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/27393413?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/17277442?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/13643633?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1095 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/10827718?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/28926234?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10593039?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12450042?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1050 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/24647868?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23422916?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/27496721?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15659403?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "780 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/20687872?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1480 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/21918074?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1420 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/26153941?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1349 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/21965157?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/11918234?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/27913890?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/14862142?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18467571?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/10823255?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27074414?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/17247229?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Saint-Pierre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/15237132?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/16987358?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "700 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14552886?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22918520?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Montréal (Anjou)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-anjou/23947483?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "895 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/26012191?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1260 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22103204?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23219563?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/9551758?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25704242?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/11145156?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "990 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25048436?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/21200416?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/16682236?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/26940772?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1425 $",
+        "City": "Quartier Île-des-Soeurs",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/25018555?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1197 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12119671?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Pierre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/10163032?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/10798138?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/22693510?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25870296?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1350 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/18213049?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12577142?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1315 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/11922319?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28308348?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14249468?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/17178553?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/27279780?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/14927486?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/12611781?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/18362069?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/9621665?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/23621638?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14407417?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "860 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18607071?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/16368861?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/14904877?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/22380087?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11333367?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/16671399?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12456510?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1300 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/26922853?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "950 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21249336?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1380 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/16797011?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1370 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/22945238?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27295640?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/15421831?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22498648?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "800 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/16630528?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/25846120?view=Summary"
+    },
+    {
+        "Category": "Condo à louer",
+        "Price": "1100 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo~a-vendre~montreal-rosemont-la-petite-patrie/24942947?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/12928580?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12724849?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/24199723?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Pierrefonds/Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/12976415?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/9026714?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "700 $",
+        "City": "Quartier Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/19769375?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22913961?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/9130465?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/9384865?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1099 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/27568037?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22521975?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1050 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/28774749?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24085299?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14072598?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/27534079?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/15580447?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "925 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/23569727?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22690999?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1385 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/27204383?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16566809?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23662636?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/16331381?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/17863477?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/23120137?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10205698?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/12546093?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/27794237?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1437 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/22138789?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/22011692?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24312954?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Mile-End",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/15494686?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/24478904?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/28676127?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/10249275?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13826100?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/19134280?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23116612?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "880 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/13542674?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "300 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/25374182?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/11426836?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/17459560?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1095 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/24548343?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12112847?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14424936?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/28637024?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/23335819?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/25618751?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/17129106?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19669424?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12801512?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1220 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18319199?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/14433272?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28600677?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "895 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/15004608?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/17363184?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/27286022?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12698425?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13595201?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/10967207?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/12570023?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1050 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/14466406?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1125 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/19304911?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11748752?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12839352?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27810159?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27063688?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/10690739?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15923732?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1315 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/13983628?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14884310?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/15018927?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24591128?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/13057752?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1199 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17534697?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/13542510?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "200 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/27630717?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/10635588?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1499 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/28067567?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28892136?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/19429610?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11003813?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21490783?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/16674566?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/17534298?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10431144?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/21392740?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/28159921?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/15125713?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/16452246?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/16462224?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/23119610?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/21812764?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/17075041?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/25884459?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/17155159?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/23574828?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/10050059?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28490062?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13930726?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12099017?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/27425000?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18847117?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/19109839?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/27823784?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/15172832?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1399 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/20380222?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/22519408?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/27247634?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "825 $",
+        "City": "Quartier Rivière-des-Prairies",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/27693492?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1315 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/28797213?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25596421?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1257 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/27372736?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/22968940?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "725 $",
+        "City": "Quartier Rosemont Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/16942459?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/21561191?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23020867?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25284768?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1195 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/13139056?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/27913016?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/10574706?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28557165?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24741897?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "795 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/16095030?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/20321767?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/25924068?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21587146?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/19293136?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28781413?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/27044606?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Anjou)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-anjou/16305201?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10853724?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/24056326?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/22410024?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/25959325?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1337 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/19629605?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18434050?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18086856?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Île-des-Soeurs",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/21009248?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1095 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28388653?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12197053?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/20749317?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18833953?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1399 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/26399290?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "990 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/13803684?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/11017346?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1190 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/25547614?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/13555398?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/18299211?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23570367?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Saint-Laurent Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/19483919?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16619029?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28675926?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1185 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/15847269?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/17590832?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/26504351?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/20111008?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/15384625?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27918917?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/19513893?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/13669594?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22396047?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25181389?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28652056?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/19931137?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18557949?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/23919963?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier La Petite-Patrie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/17711019?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21997548?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1345 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/28485109?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21508233?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/15620055?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18105597?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1335 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/12966258?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/26976830?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/12662684?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18687803?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1165 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/18229497?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/11266006?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "300 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/9297502?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/16957278?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/15619466?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/15915826?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18255854?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25578664?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/13238628?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17805321?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1175 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/14832915?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21161970?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "960 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/14446675?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22492594?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/24359283?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1285 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/22182076?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/18607691?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/10828402?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17385680?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/21858267?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16719503?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier La Petite-Patrie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/24069524?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/19346926?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/21987006?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13716431?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1480 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/22947270?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/23713930?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23341421?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/27502121?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1425 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21380556?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25114974?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15211377?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21949082?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/26219161?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/14375490?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/loft-studio~a-vendre~montreal-ville-marie/11408197?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/27462038?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/17483388?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27923925?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1330 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23297356?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1360 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/22326750?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1385 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14805022?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13144950?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/13349206?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25536859?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/28873357?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23645051?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18420859?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Ahuntsic Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/16647241?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10663586?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1425 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27102185?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/22406657?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "896 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/15053501?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1480 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18114248?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23104414?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22382770?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/24654349?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1399 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/25633330?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/14760522?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/13574219?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1100 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-rosemont-la-petite-patrie/24583186?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/17205307?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22157769?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1360 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11677195?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17723911?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/23339623?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1499 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/21826498?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13626088?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "899 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16887424?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15950632?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/22533097?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/20900792?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/23526356?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "250 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/17464341?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/13381594?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/20512418?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/11711376?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/18531521?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11381257?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "860 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16425890?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1050 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/20663723?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/26211166?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1180 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12227832?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/27282370?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1190 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12375078?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "875 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/20119697?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "895 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/27877221?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24789161?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23042520?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/21690147?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/20075596?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/16737049?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/10995842?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1425 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25858654?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1485 $",
+        "City": "Quartier Rivière-des-Prairies",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/25363237?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/18813833?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18470094?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12160640?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/13182070?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/25905062?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24386223?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Bois de Saraguay",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14120876?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/28930838?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/10684097?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/14970071?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/22242777?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "795 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/12550122?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1475 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-plateau-mont-royal/19453924?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27639454?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/25813012?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/27729513?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1430 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25688375?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "775 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/19249224?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/20660639?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/20728582?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12300843?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/24115595?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12157240?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25304689?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "950 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/10224685?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "890 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/23169167?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14538809?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/17426228?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "922 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/27872427?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22414094?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/20876301?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1345 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/24815472?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18089102?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15508181?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/20566354?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1125 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24384968?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "925 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/23603492?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14038892?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/21671685?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/10628322?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14031916?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16967332?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14335243?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/24948165?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/24400133?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/9558208?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23306363?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27484366?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/10308720?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/12636922?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1290 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/12418991?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1350 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/12324065?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16008015?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19899068?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1485 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/26945322?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/13536339?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/20468232?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/9463168?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23989932?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/20836065?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "845 $",
+        "City": "Quartier Ahuntsic Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/20810258?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25223031?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/14104096?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1420 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27745849?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/24751808?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22489365?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1290 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14775790?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14300111?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19760561?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1330 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/9595288?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1370 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/15821429?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/19611114?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/18263229?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22566921?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10670148?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1145 $",
+        "City": "Quartier Rivière-des-Prairies",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/25303189?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14385714?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/28433973?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "200 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-lachine/28235438?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/14016374?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "925 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/10744328?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/17747441?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/11878848?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/9750937?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/10152947?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/18255565?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/17429900?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/12662032?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/12784456?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "915 $",
+        "City": "Quartier L'Île-Bizard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-l-ile-bizard-sainte-genevieve/18855348?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "675 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/9361307?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18258807?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1340 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/25730317?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/19812080?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23031659?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/11247134?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/24529301?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "750 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/9365787?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/14825170?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1150 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/24645937?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/26325149?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1175 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/10207633?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/26175477?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1247 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19265800?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1285 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18684870?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24686133?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/20366374?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19017819?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "950 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/28226148?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/23403826?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/11588249?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16510187?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/9825941?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/25707260?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23311749?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/10838444?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "725 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/15536218?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23679070?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/26879776?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1480 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18078107?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13069850?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14365894?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25468568?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/16996995?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "860 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16215612?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1050 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/24662023?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18006838?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/12673735?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25962610?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1470 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19197612?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "200 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-lachine/23561433?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18143603?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/22625723?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/17115941?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/9935212?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1080 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12518124?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1399 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/9623513?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/28236530?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/20081312?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24554232?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10962342?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1090 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/26132085?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/11889264?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "985 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14699871?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18913940?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Pierre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/26336382?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1280 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22848922?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "835 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25193410?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/17008508?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19620467?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22857738?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "900 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/15600359?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/24935262?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/17560973?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1070 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/11326130?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/25494987?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/17922526?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/28711103?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/22352567?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/27909182?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/13809299?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "850 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/12349094?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/28531047?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1450 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/11195012?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Mile-End",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/16249068?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/18869409?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Rivière-des-Prairies",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/10682165?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1499 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/13055061?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/21297656?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier La Petite-Patrie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/19485243?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/26380435?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "200 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-ville-marie/17847958?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1125 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14033037?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12865499?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18239613?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1099 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/9154689?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1025 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25391401?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/9678001?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18184500?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/17891217?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/13799205?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14545588?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11788480?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/21036875?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/23205651?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/25030184?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/10524921?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/24596523?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/18143964?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/15313681?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1395 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/16303410?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "630 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/11752435?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/26138308?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1000 $",
+        "City": "Quartier Nouveau-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/27429143?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1195 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/21708906?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/25667848?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "915 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19670510?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1150 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-rosemont-la-petite-patrie/25907539?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/9134666?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18192606?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1305 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/13461857?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/18759445?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "915 $",
+        "City": "Quartier Saint-Laurent Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/17155036?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Île-des-Soeurs",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/17456347?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18645672?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23827279?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/16874294?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12723467?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21422642?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/20387776?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "825 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18925785?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Ahuntsic Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/9011747?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1260 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/9235813?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1290 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19511718?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/9347035?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/19381839?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1445 $",
+        "City": "Quartier Ahuntsic Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14877863?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/18930739?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1080 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/22515336?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/23270422?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/13272446?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/9251240?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1370 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/22371259?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-montreal-nord/12396438?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/28701176?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/10156782?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/22823177?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "760 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/23103891?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1380 $",
+        "City": "Montréal (Anjou)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-anjou/28175096?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Petite Italie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/28231956?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/27309382?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1180 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/12301495?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/26729845?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13716545?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/23872593?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/26144854?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/26790813?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1050 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18585563?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1410 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/15620955?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/22646061?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/14630103?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18209609?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/13844348?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22230440?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/25331004?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1399 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/17516267?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Quartier Parc-Extension",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/21705401?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/16848549?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1485 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/19835071?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/14960353?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Village",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10518535?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "150 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-le-sud-ouest/13068056?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/9393422?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/17977586?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11448055?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/27146939?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Vieux Saint-Laurent",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/9077021?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/10710395?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Vieux-Rosemont",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13765840?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1150 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/16277009?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1480 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/27132619?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "789 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/15937046?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier La Cité du Multimédia",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/13804371?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/27624158?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25133168?view=Summary"
+    },
+    {
+        "Category": "Terrain à louer",
+        "Price": "125 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/terrain~a-louer~montreal-lasalle/23637258?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "885 $",
+        "City": "Quartier Saint-Michel",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/17392220?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Laurent Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/24298040?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1325 $",
+        "City": "Quartier Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lachine/14553324?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1380 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/15498061?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1450 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/13467089?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Nouveau Saint-Laurent/Bois-Franc",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/24961418?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/16322566?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1195 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/18907951?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "935 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/21563998?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21684603?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1250 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/15316582?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/12770128?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1460 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/28015411?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1390 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/12365021?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/16919022?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1080 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28525153?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/28162109?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Montréal (Outremont)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-outremont/21449286?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "950 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21907463?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/14588157?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Pierrefonds/Centre Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-pierrefonds-roxboro/23027243?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24425794?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1045 $",
+        "City": "Quartier Pointe-aux-Trembles",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/26745013?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "850 $",
+        "City": "Quartier Vieux-Montréal",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/13438427?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/20304932?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17066454?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/27261187?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/18026828?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/26557586?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Saint-Laurent Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/25935976?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Mercier",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/9373908?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/16890115?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1225 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/27698443?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1474 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/15008014?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1275 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12699693?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1490 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/25693733?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1335 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/27093537?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Cartierville",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/16871524?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Nouveau Bordeaux",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/24835671?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1350 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/18113675?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1315 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/26799833?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1200 $",
+        "City": "Quartier La Petite-Patrie",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/11341808?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "925 $",
+        "City": "Quartier Hochelaga-Maisonneuve",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/18686714?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/13848108?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/10870088?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/26462016?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "795 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11975398?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Ahuntsic Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/28054379?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Ahuntsic Est",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ahuntsic-cartierville/20793268?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Griffintown",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21797067?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Autres",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-laurent/25752612?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11045547?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12606381?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "995 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19836891?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1100 $",
+        "City": "Quartier Shop Angus",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/9952118?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/18022346?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "975 $",
+        "City": "Montréal (Montréal-Nord)",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-montreal-nord/12530008?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Saint-Paul/Émard",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21488416?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "975 $",
+        "City": "Montréal (LaSalle)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-lasalle/28188222?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24047757?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Montréal (Saint-Léonard)",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-saint-leonard/25404005?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/25058894?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1400 $",
+        "City": "Quartier Pointe-Saint-Charles",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-le-sud-ouest/11326482?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Saint-Henri/Petite Bourgogne",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-sud-ouest/21951611?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1400 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/27290804?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/25397997?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Notre-Dame-de-Grâce",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/23649687?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "750 $",
+        "City": "Quartier Rosemont Nord",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/20231581?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1375 $",
+        "City": "Quartier Verdun",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/25568307?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1495 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/15490370?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1295 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/24699457?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1250 $",
+        "City": "Quartier Mille Carré Doré",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/17649626?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/14466053?view=Summary"
+    },
+    {
+        "Category": "Loft / Studio à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/loft-studio~a-louer~montreal-ville-marie/20948847?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1248 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/22761849?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1425 $",
+        "City": "Quartier Centre",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/19242928?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1475 $",
+        "City": "Quartier Le Plateau-Mont-Royal",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-le-plateau-mont-royal/20211362?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Centre Ouest",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-ville-marie/11769213?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1300 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/20869888?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1450 $",
+        "City": "Quartier Côte-des-Neiges",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/15939973?view=Summary"
+    },
+    {
+        "Category": "Condo / Appartement à louer",
+        "Price": "1500 $",
+        "City": "Quartier Villeray",
+        "Link": "www.centris.ca/en/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/22246457?view=Summary"
+    }
+]
